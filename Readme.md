@@ -10,7 +10,7 @@ Image processing is done with Intervention
 get images by url_name/{width}/{height} .
 for example in local machine localhost/filename/public/300/500
 
-above example returns adorable random dogs image having 300 * 500 
+above example returns adorable random dogs images having 300 * 500 
 
 
 you can get a single image if you want to.. for example 
